@@ -5,7 +5,7 @@
 
 🎓 I'm a student at [UC San Diego](https://ucsd.edu) studying Computer Engineering and minoring in Cognitive Science.
 
-💻 This past summer, I interned at [Chick-fil-A](https://www.chick-fil-a.com/) as a Software Engineer on the Cybersecurity team! Previously, I interned at [Tala Security](https://www.talasecurity.io/).
+💻 This summer, I will be a Software Engineering intern at [Chan Zuckerberg Intiative](https://chanzuckerberg.com/). Last summer, I interned at [Chick-fil-A](https://www.chick-fil-a.com/) as a Software Engineer on the Cybersecurity team! Previously, I interned at [Tala Security](https://www.talasecurity.io/).
 
 ⭐ For fun, I enjoy singing and playing music 🎵, travelling the world 🌎, gaming with others 🎮, and trying new food 😋
 
