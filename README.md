@@ -3,9 +3,9 @@
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eliasfang@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eliasfang)
 
-🎓 I'm a student at [UC San Diego](https://ucsd.edu) studying Computer Engineering and minoring in Cognitive Science.
+🎓 I recently graduated from [UC San Diego](https://ucsd.edu) with a B.S. in Computer Engineering!
 
-💻 This summer, I will be a Software Engineering intern at [Chan Zuckerberg Intiative](https://chanzuckerberg.com/). Last summer, I interned at [Chick-fil-A](https://www.chick-fil-a.com/) as a Software Engineer on the Cybersecurity team! Previously, I interned at [Tala Security](https://www.talasecurity.io/).
+💻 This past summer, I was a Software Engineering intern at [Chan Zuckerberg Intiative](https://chanzuckerberg.com/). The summer before, I interned at [Chick-fil-A](https://www.chick-fil-a.com/) as a Software Engineer on the Cybersecurity team!
 
 ⭐ For fun, I enjoy singing and playing music 🎵, travelling the world 🌎, gaming with others 🎮, and trying new food 😋
 
